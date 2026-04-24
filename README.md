@@ -75,9 +75,7 @@ federated_credit_risk/
 ---
 
 ## 👤 Author
-**[Your Name]** BSc Data Science, University of Mumbai  
-**Project Guide**: [Professor's Name]
-
+**[Suyash Madke]** BSc Data Science, University of Mumbai
 ---
 
 *Last Updated: April 24, 2026 (Final Submission Version)*
