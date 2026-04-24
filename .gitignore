@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data (Avoid uploading large raw datasets)
+data/raw/*.data
+data/raw/*.csv
+data/processed/*.npy
+data/processed/*.pkl
+
+# Models (Large binary files)
+models/**/*.h5
+models/**/*.pkl
+results/federated/**/*.h5
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS
+.DS_Store

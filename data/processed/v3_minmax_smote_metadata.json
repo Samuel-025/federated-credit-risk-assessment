@@ -1,0 +1,39 @@
+{
+  "feature_names": [
+    "checking_status",
+    "duration",
+    "credit_history",
+    "purpose",
+    "credit_amount",
+    "savings_status",
+    "employment",
+    "installment_rate",
+    "personal_status",
+    "other_parties",
+    "residence_since",
+    "property_magnitude",
+    "age",
+    "other_payment_plans",
+    "housing",
+    "existing_credits",
+    "job",
+    "num_dependents",
+    "own_telephone",
+    "foreign_worker",
+    "duration_amount_ratio",
+    "age_group",
+    "amount_category",
+    "duration_category"
+  ],
+  "n_features": 24,
+  "n_train": 980,
+  "n_test": 300,
+  "class_distribution_train": {
+    "1": 490,
+    "0": 490
+  },
+  "class_distribution_test": {
+    "0": 210,
+    "1": 90
+  }
+}

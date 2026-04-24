@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+Logistic Regression,0.7333,0.5500,0.6111,0.5789,0.7611
+Random Forest,0.7633,0.6173,0.5556,0.5848,0.7943
+Neural Network (Centralized),0.7767,0.6353,0.6000,0.6171,0.7870
+FL - IID (3 clients),0.7533,0.5702,0.7222,0.6373,0.7949
+FL - Non-IID (3 clients),0.6967,0.4954,0.6000,0.5427,0.7459
