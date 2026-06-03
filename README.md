@@ -75,7 +75,7 @@ federated_credit_risk/
 ---
 
 ## 👤 Author
-**[Suyash Madke]** BSc Data Science, University of Mumbai
+**[Suyash Madke & Aditya Veer]** BSc Data Science, University of Mumbai
 ---
 
 *Last Updated: April 24, 2026 (Final Submission Version)*
