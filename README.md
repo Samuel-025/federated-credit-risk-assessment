@@ -14,19 +14,6 @@ A Privacy-Preserving Approach to Loan Default Prediction
 
 ---
 
-## 📌 Recommended Repository Topics
-- `federated-learning`
-- `credit-risk-assessment`
-- `privacy-preserving-ai`
-- `machine-learning`
-- `fedavg`
-- `financial-data-science`
-- `scikit-learn`
-- `tensorflow`
-- `python`
-
----
-
 ## 📋 Project Overview
 This project implements a **Federated Learning (FL)** framework for credit risk assessment. Using the Federated Averaging (**FedAvg**) algorithm, we demonstrate how financial institutions can collaboratively train a robust machine learning model for loan default prediction without exposing sensitive customer data.
 
