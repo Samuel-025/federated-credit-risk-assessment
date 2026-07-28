@@ -39,7 +39,7 @@ Established benchmarks using traditional machine learning models trained on cons
 
 ### Phase 3: Federated Learning Implementation ✅
 * **Algorithm**: Federated Averaging (FedAvg).
-* **Environment**: 10 simulated client nodes with IID and Non-IID data distributions.
+* **Environment**: 3 simulated client nodes with IID and Non-IID data distributions.
 * **Results**: Global model converged within **15 communication rounds**, achieving an accuracy of ~76.5% under IID conditions (within 2% of the centralized Neural Network).
 
 ### Phase 4: Final Evaluation & Visualizations ✅
